@@ -12,7 +12,7 @@ const FeatureList = [
   },
   {
     title: "Focus on What Matters",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("@site/static/img/easy-to-easy.svg").default,
     description: (
       <>
         EasyORM was designed to let you focus on your business logic while we
@@ -22,7 +22,7 @@ const FeatureList = [
   },
   {
     title: "Documentation",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    Svg: require("@site/static/img/easy-to-easy.svg").default,
     description: (
       <>
         EasyORM is easy to understand and use for your application with detailed
